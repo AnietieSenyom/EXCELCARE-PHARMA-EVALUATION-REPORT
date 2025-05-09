@@ -61,6 +61,12 @@ Microsoft Excel: Used for preliminary data cleaning, exploration, analysis, and 
 
 ---
 
+## 🔗 Link to Dataset
+
+Explore the full report here: 📂 [**ExcelCare Pharma Dataset**](https://github.com/AnietieSenyom/EXCELCARE-PHARMA-EVALUATION-REPORT/blob/main/Task%2021A%20-%20David%20John.xlsx)
+
+---
+
 ## 📘 Conclusion
 
 The **ExcelCare Pharma Evaluation Report** reveals critical insights into drug pricing, distribution patterns, and strategic market positioning. These findings can guide real-world decisions in inventory optimization, regional expansion, R&D prioritization, and competitive benchmarking within the pharmaceutical industry.
